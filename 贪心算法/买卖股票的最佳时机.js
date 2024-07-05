@@ -23,6 +23,3 @@ const maxProfit = function (prices) {
   }
   return profit;
 };
-
-const result = maxProfit([7, 6, 4, 3, 1]);
-console.log(result);
